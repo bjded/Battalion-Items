@@ -1,2 +1,1 @@
-# Battalion-Items
-Generates random amounts of troops based on set parameters which are different per item.
+This file is from a small part of a large project that worked on recrating Evony the game after flash was discontinued. Unfortunately, the development team abandoned this project and this was the only part I got to work on at the time. This code generates random amounts of troops based on set parameters which are different per item.
